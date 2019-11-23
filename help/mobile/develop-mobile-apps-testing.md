@@ -100,6 +100,11 @@ For more information see [https://www.apptestnow.com](https://www.apptestnow.com
 
 For more information see [https://hockeyapp.net/features/](https://hockeyapp.net/features/).
 
+**Instabug**
+* Instabug is a tool that helps developers connect with customers and ship quality apps faster, in other words, Instabug helps detect crashes and fix them instantly, reports bugs to the responsible team, optimize app store ratings and drive 5 stars ratings. In addition it helps the engineering team announce new updates with a detailed change log. 
+
+For more information please visit [https://instabug.com/product] (https://instabug.com/product/).
+
 **Jenkins**
 
 * Although not a testing tool, Jenkins is a continuous integration framework providing the backbone for automated tests. Numerous 3rd-party plugins are available to extend functionality. One example, the SeleniumGrid plugin provides an UI to help manage the Selenium hub and nodes.
